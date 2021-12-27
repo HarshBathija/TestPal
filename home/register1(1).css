@@ -1,0 +1,61 @@
+#header {
+	 width:100% ; 
+	height:100px; 
+ 	}
+
+#content1 { 
+	width:100% ; 
+	height :600px;
+	 }
+
+#footer { 
+	width:100% ; 
+	height: 70px; 
+	background : #1c6c92;
+	}
+
+.p{ 
+	text-align:center;
+	}
+
+.h1{ 
+	text-align:center; 
+	margin:0px;
+	font-family: "Raleway", Arial, sans-serif;
+	font-size:100px;
+	 }
+
+.bg{ 
+	background-image: url("image2.png"); 
+	background-repeat:no-repeat; 
+	background-size:cover ; 
+	height:100% ; 
+	width:100% ; 
+	background-position: 
+	center; margin:0px
+	}
+
+.hr{ 
+	margin:0
+	}
+.th{
+	padding:35px
+	}
+.b{
+	font-family: "Raleway", Arial, sans-serif;
+}
+
+input[ type = submit ]{
+	width: 90px;
+	height:40px;
+	color: #1c6c92;
+	background-color: transparent;
+	border: none;
+	font-size: larger;
+	font-weight: bold;
+}
+
+.a{
+color:#1c6c92;
+font-size: larger;
+}
